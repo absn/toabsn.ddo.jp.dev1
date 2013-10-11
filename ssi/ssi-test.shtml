@@ -1,0 +1,8 @@
+<html>
+<body>
+このファイルは
+<!--#config timefmt="%Y/%m/%d %X" -->
+<!--#echo var="LAST_MODIFIED" -->
+に更新されました。
+</body>
+</html>
